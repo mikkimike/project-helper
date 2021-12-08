@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.mikkimike.projecthelper.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.mikkimike.projecthelper.MyBundle
 
 class MyApplicationService {
 
